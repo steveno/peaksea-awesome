@@ -124,3 +124,5 @@ theme.titlebar_maximized_button_normal_inactive = "/usr/share/awesome/themes/pea
 -- }}}
 
 return theme
+
+-- vim: set sw=4 sts=4 et ft=lua : --
