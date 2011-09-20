@@ -15,12 +15,12 @@ theme.wallpaper_cmd = { "awsetbg /usr/share/awesome/themes/peaksea/peaksea-backg
 theme.font      = "sans 8"
 
 -- {{{ Colors
-theme.fg_normal = "#DCDCCC"
-theme.fg_focus  = "#F0DFAF"
-theme.fg_urgent = "#CC9393"
-theme.bg_normal = "#3F3F3F"
-theme.bg_focus  = "#1E2320"
-theme.bg_urgent = "#3F3F3F"
+theme.fg_normal = "#D0D0D0"
+theme.fg_focus  = "#B0B0B0"
+theme.fg_urgent = "#60F080"
+theme.bg_normal = "#202020"
+theme.bg_focus  = "#333435"
+theme.bg_urgent = "#D0D0D0"
 -- }}}
 
 -- {{{ Borders
