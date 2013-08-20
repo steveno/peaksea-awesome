@@ -1,10 +1,10 @@
 This is an awesome theme based off of the peaksea color theme for VIM.
-        http://www.vim.org/scripts/script.php?script_id=760
+               https://github.com/steveno/peaksea
 
 The initial start for this theme was the zenburn theme included with 
 awesome by default. I copied all the icons and the changed the 
 background to match. 
-        http://slinky.imukuppi.org/zenburnpage/
+             http://slinky.imukuppi.org/zenburnpage/
 
 The colors are still a work in process, so don't be surprised to see 
 a very zenburn-esque pallet. As always contributions are welcome!
